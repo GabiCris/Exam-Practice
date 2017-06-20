@@ -66,5 +66,25 @@
     <ClInclude Include="GeneratedFiles\ui_try2.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
+    <ClInclude Include="Programmer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Task.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="programmers.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="tasks.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

@@ -1,0 +1,11 @@
+ale;closed;14
+app;closed;21
+database;closed;21
+sf;closed;14
+game;in progress;90
+new;in progress;14
+new1;in progress;14
+task;in progress;14
+xy;in progress;14
+sf;open;14
+xy;open;14
